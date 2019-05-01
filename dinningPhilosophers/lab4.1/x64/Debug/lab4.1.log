@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\olya\desktop\программотехника\4\lab4.1\lab4.1\main.cpp(48): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab4.1.vcxproj -> C:\Users\Olya\Desktop\Программотехника\4\lab4.1\x64\Debug\lab4.1.exe
+  lab4.1.vcxproj -> C:\Users\Olya\Desktop\Программотехника\4\lab4.1\x64\Debug\lab4.1.pdb (Partial PDB)
